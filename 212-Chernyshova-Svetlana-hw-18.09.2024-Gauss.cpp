@@ -501,19 +501,22 @@ splot \"%s\" u 1:2:3 with dots", int(x_size), int(y_size), GNU_data_file_name);
         if (istr[0] == 'G' && istr[1] == 'S' && istr[2] == 'S')
         {
             printf("GNU-check-1\n");
-            if ( !(sscanf(strtok_r(nullptr, sep, &saveptr), "%d", &hight) == 1))
+            tmp = strtok_r(nullptr, sep, &saveptr);
+            if ( tmp == nullptr || tmp[0] == '\0' || tmp[0] == '\n' || tmp[0] == '\r' || !(sscanf(tmp, "%d", &hight) == 1))
             {
                 printf("GNU-check-2\n");
                 hight = interface_Gauss_DEF_hight;
             }
             printf("1\n");
-            if ( !(sscanf(strtok_r(nullptr, sep, &saveptr), "%d", &mu_x) == 1))
+            tmp = strtok_r(nullptr, sep, &saveptr);
+            if ( tmp == nullptr || tmp[0] == '\0' || tmp[0] == '\n' || tmp[0] == '\r' || !(sscanf(tmp, "%d", &mu_x) == 1))
             {
                 printf("GNU-check-3\n");
                 mu_x = interface_Gauss_DEF_mu_x;
             }
             printf("2\n");
-            if ( !(sscanf(strtok_r(nullptr, sep, &saveptr), "%d", &mu_y) == 1))
+            tmp = strtok_r(nullptr, sep, &saveptr);
+            if ( tmp == nullptr || tmp[0] == '\0' || tmp[0] == '\n' || tmp[0] == '\r' || !(sscanf(tmp, "%d", &mu_y) == 1))
             {
                 printf("GNU-check-4\n");
                 mu_y = interface_Gauss_DEF_mu_y;
@@ -2188,7 +2191,8 @@ splot \"%s\" u 1:2:3 with dots", int(x_size), int(y_size), GNU_data_file_name);
                     //f = int((hight - 127.)/10.) * ((1. / (2 * pi * s_x * s_y) * pow(e, - (x - mu_x) * (x - mu_x) / (2 * s_x * s_x) - (y - mu_y) * (y - mu_y) / (2 * s_y * s_y))) + 127);
                     //f = 1. / (2 * pi * s_x * s_y) * pow(e, - (double(x)/h - mu_x) * (double(x)/h - mu_x) / (2 * s_x * s_x) - (double(y)/h - mu_y) * (double(y)/h - mu_y) / (2 * s_y * s_y)) + 127;
                     //f = 1.5*255*(double(hight) - 127) / (2 * pi * s_x * s_y) * pow(e, - (double(x) - mu_x) * (double(x) - mu_x) / (2 * s_x * s_x) - (double(y) - mu_y) * (double(y) - mu_y) / (2 * s_y * s_y)) + 127;
-                    f = 900.* h * ((double(hight) - 127) / h) / (2. * pi * s_x * s_y) * pow(e, - (double(x) - mu_x) * (double(x) - mu_x) / (2 * s_x * s_x) - (double(y) - mu_y) * (double(y) - mu_y) / (2 * s_y * s_y)) + 127;
+                f = 900.* h * ((double(hight) - 127) / h) / (2. * pi * s_x * s_y) * pow(e, - (double(x) - mu_x) * (double(x) - mu_x) / (2 * s_x * s_x) - (double(y) - mu_y) * (double(y) - mu_y) / (2 * s_y * s_y)) + 127;
+                //f = 10000. * h * ((double(hight) - 127) / h) / (2. * pi * s_x * s_y) * pow(e, - (double(x) - mu_x) * (double(x) - mu_x) / (2 * s_x * s_x) - (double(y) - mu_y) * (double(y) - mu_y) / (2 * s_y * s_y)) + 127;
                     //f = 1. * h * ((double(hight) - 127) / h) / (2. * pi * s_x * s_y) * pow(e, - (double(x) - mu_x) * (double(x) - mu_x) / (2 * s_x * s_x) - (double(y) - mu_y) * (double(y) - mu_y) / (2 * s_y * s_y)) + 127;
 
                     ///printf("f : %lf\n", f);
