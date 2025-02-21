@@ -1,0 +1,10 @@
+GSS 10 20 40 7 8
+INIT 100 100
+GSS 50 10 70 8 12
+GSS 250 70 40 3 5
+GSS 210 55 35 7 10
+GSS 10 90 85 8 14
+GSS 230 30 80 16 7
+GEN
+GNU gnuplot_data_test4.txt Gnuplot_test4.txt
+CRBMP bmp_created_test4.bmp

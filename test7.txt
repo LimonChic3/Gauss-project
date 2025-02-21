@@ -1,0 +1,4 @@
+GSS 10 20 40 7 8
+RDBMP bmp_created_test6.bmp
+GNU gnuplot_data_test7.txt Gnuplot_test7.txt
+CRBMP bmp_created_test7.bmp

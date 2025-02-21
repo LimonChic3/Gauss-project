@@ -1,0 +1,10 @@
+GSS 10 20 40 7 8
+INIT 100 100
+GSS 50 10 70 8
+GSS 250 70 40 3 5
+GSS 200 40 50 2 7
+GEN
+CRBMP bmp_created_test10.bmp
+GNU gnuplot_data_test10.txt Gnuplot_test10.txt
+BIN 130
+WAVE 100

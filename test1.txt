@@ -1,0 +1,5 @@
+GSS 140 35 70 3 5
+INIT 100 100
+GSS 120 78 60 7 20
+GEN
+GNU gnuplot_data_test1.txt Gnuplot_test1.txt

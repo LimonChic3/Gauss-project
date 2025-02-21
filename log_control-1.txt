@@ -1,0 +1,2982 @@
+14.12.2024 09:01:22 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:01:22 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:01:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:01:22 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:01:22 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:01:22 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command GEN.
+
+14.12.2024 09:01:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:01:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:01:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command BIN.
+
+14.12.2024 09:01:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command WAVE.
+
+14.12.2024 09:01:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command KMEANS.
+
+14.12.2024 09:01:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:01:22 : Class Control received control from Interface and received command KMCORES.
+
+14.12.2024 09:01:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:28:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:28:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:28:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:28:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:28:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command GEN.
+
+14.12.2024 09:28:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:28:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:28:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command BIN.
+
+14.12.2024 09:28:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command WAVE.
+
+14.12.2024 09:28:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command KMEANS.
+
+14.12.2024 09:28:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:28:27 : Class Control received control from Interface and received command KMCORES.
+
+14.12.2024 09:28:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:29:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command GEN.
+
+14.12.2024 09:29:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:29:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:29:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command BIN.
+
+14.12.2024 09:29:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command WAVE.
+
+14.12.2024 09:29:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:28 : Class Control received control from Interface and received command KMEANS.
+
+14.12.2024 09:29:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:34 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:34 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:34 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:29:34 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:34 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:34 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:34 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:34 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:34 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:34 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:34 : Class Control received control from Interface and received command GEN.
+
+14.12.2024 09:29:34 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:34 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:29:34 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:34 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:29:34 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:34 : Class Control received control from Interface and received command BIN.
+
+14.12.2024 09:29:34 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:57 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:57 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:29:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:57 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:57 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:57 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:29:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:29:57 : Class Control received control from Interface and received command GEN.
+
+14.12.2024 09:29:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:57 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:29:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:57 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:29:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:57 : Class Control received control from Interface and received command BIN.
+
+14.12.2024 09:29:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:29:57 : Class Control received control from Interface and received command WAVE.
+
+14.12.2024 09:29:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:30:32 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:30:32 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:30:32 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:30:32 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:31:24 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:31:24 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:31:24 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:31:24 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:31:24 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:31:24 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:31:24 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:31:24 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:31:24 : Class Control received control from Interface and received command GEN.
+
+14.12.2024 09:31:24 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:31:24 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:31:24 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:31:24 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:31:24 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:31:24 : Class Control received control from Interface and received command BIN.
+
+14.12.2024 09:31:24 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:31:31 : Class Control received control from Interface and received command RDBMP.
+
+14.12.2024 09:31:31 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:31:31 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:31:31 : Generation, gnuplot and bmp can't be complete without a field. The field has't been initialized. The command skipped.
+The control is given back to the Interface.
+
+14.12.2024 09:31:31 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:31:31 : Generation, gnuplot and bmp can't be complete without a field. The field has't been initialized. The command skipped.
+The control is given back to the Interface.
+
+14.12.2024 09:31:48 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:31:48 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:31:48 : Class Control received control from Interface and received command RDBMP.
+
+14.12.2024 09:31:48 : The gausses has already been added. Not able to use bmp reading for field initialization. The command skipped.
+The control is given back to the Interface.
+
+14.12.2024 09:31:48 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:31:48 : Generation, gnuplot and bmp can't be complete without a field. The field has't been initialized. The command skipped.
+The control is given back to the Interface.
+
+14.12.2024 09:31:48 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:31:48 : Generation, gnuplot and bmp can't be complete without a field. The field has't been initialized. The command skipped.
+The control is given back to the Interface.
+
+14.12.2024 09:31:54 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:31:54 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:31:54 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:31:54 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:31:54 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:31:54 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:31:54 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:31:54 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:31:54 : Class Control received control from Interface and received command GEN.
+
+14.12.2024 09:31:54 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:31:54 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:31:54 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:31:54 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:31:54 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:32:00 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:32:00 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:32:00 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:32:00 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:32:00 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:32:00 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:32:00 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:32:00 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:32:00 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:32:00 : Can't make gnuplot because there are no gausses on the field. The command skipped.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:32:09 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:32:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:32:09 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:32:09 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:32:09 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command GEN.
+
+14.12.2024 09:32:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:32:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:32:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command BIN.
+
+14.12.2024 09:32:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command WAVE.
+
+14.12.2024 09:32:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command KMEANS.
+
+14.12.2024 09:32:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:32:09 : Class Control received control from Interface and received command KMCORES.
+
+14.12.2024 09:32:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:33:09 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:33:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:33:09 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:33:09 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:33:09 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command GEN.
+
+14.12.2024 09:33:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 09:33:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 09:33:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command BIN.
+
+14.12.2024 09:33:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command WAVE.
+
+14.12.2024 09:33:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command KMEANS.
+
+14.12.2024 09:33:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:33:09 : Class Control received control from Interface and received command KMCORES.
+
+14.12.2024 09:33:09 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:37:32 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:37:32 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:37:32 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:37:32 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:38:58 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:38:58 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:38:58 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:38:58 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:42:01 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:42:01 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:42:01 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:42:01 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:43:33 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:43:33 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:43:33 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:43:33 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:48:24 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:48:24 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:48:24 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:48:24 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:49:14 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:49:14 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:49:14 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:49:14 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:50:06 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:50:06 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:50:06 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:50:06 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:51:20 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:51:20 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:51:20 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:51:20 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:54:31 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:54:31 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:54:31 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:54:31 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 09:55:54 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 09:55:54 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 09:55:54 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 09:55:54 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 10:06:28 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 10:06:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 10:06:28 : Class Control received control from Interface and received command INIT.
+
+14.12.2024 10:06:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 10:06:28 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 10:06:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 10:06:28 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 10:06:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 10:06:28 : Class Control received control from Interface and received command GSS.
+
+14.12.2024 10:06:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+14.12.2024 10:06:28 : Class Control received control from Interface and received command GEN.
+
+14.12.2024 10:06:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 10:06:28 : Class Control received control from Interface and received command CRBMP.
+
+14.12.2024 10:06:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 10:06:28 : Class Control received control from Interface and received command GNU.
+
+14.12.2024 10:06:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 10:06:28 : Class Control received control from Interface and received command BIN.
+
+14.12.2024 10:06:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+14.12.2024 10:06:28 : Class Control received control from Interface and received command WAVE.
+
+14.12.2024 10:06:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:45:27 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:45:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:45:27 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 21:45:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:45:27 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:45:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:45:27 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:45:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:45:27 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:45:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:45:27 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 21:45:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:45:27 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 21:45:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:45:27 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 21:45:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:45:27 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 21:45:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:45:27 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:46:56 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 21:46:56 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:46:56 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:46:56 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:46:56 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 21:46:56 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 21:46:56 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 21:46:56 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 21:46:56 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 21:46:56 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 21:46:56 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:46:56 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 21:46:56 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:49:36 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 21:49:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:49:36 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:49:36 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:49:36 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 21:49:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 21:49:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 21:49:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 21:49:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 21:49:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 21:49:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:49:36 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 21:49:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:52:29 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 21:52:29 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:52:29 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:52:29 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:52:29 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 21:52:29 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 21:52:29 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 21:52:29 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 21:52:29 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 21:52:29 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 21:52:29 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:52:29 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 21:52:29 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:54:16 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 21:54:16 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:54:16 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:54:16 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:54:16 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 21:54:16 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 21:54:16 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 21:54:16 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 21:54:16 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 21:54:16 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 21:54:16 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:54:16 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 21:54:16 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:58:03 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 21:58:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:58:03 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:58:03 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:58:03 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 21:58:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 21:58:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 21:58:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 21:58:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 21:58:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 21:58:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:58:03 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 21:58:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:59:30 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 21:59:30 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:59:30 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:59:30 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 21:59:30 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 21:59:30 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 21:59:30 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 21:59:30 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 21:59:30 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 21:59:30 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 21:59:30 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 21:59:30 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 21:59:31 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:01:36 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:01:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:01:36 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:01:36 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:01:36 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:01:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:01:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:01:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:01:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:01:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:01:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:01:36 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:01:36 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:03:13 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:03:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:03:13 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:03:13 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:03:13 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:03:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:03:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:03:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:03:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:03:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:03:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:03:13 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:03:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:05:03 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:05:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:05:03 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:05:03 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:05:03 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:05:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:05:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:05:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:05:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:05:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:05:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:05:03 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:05:03 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:06:18 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:06:18 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:06:18 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:06:18 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:06:18 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:06:18 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:06:18 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:06:18 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:06:18 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:06:18 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:06:18 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:06:18 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:06:18 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:07:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:07:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:07:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:07:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:07:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:07:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:07:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:07:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:07:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:07:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:07:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:07:19 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:07:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:08:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:08:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:08:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:08:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:08:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:08:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:08:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:08:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:08:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:08:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:08:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:08:19 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:08:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:10:37 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:10:37 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:10:37 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:10:37 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:10:37 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:10:37 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:10:37 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:10:37 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:10:37 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:10:37 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:10:37 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:10:37 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:10:37 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:12:13 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:12:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:12:13 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:12:13 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:12:13 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:12:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:12:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:12:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:12:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:12:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:12:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:12:13 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:12:13 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:14:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:14:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:14:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:14:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:14:27 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:14:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:14:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:14:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:14:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:14:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:14:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:14:27 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:14:27 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:20:14 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:20:14 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:20:14 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:20:14 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:20:14 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:20:14 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:20:14 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:20:14 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:20:14 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:20:14 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:20:14 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:20:14 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:20:14 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:21:01 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:21:01 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:21:01 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:21:01 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:21:01 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:21:01 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:21:01 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:21:01 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:21:01 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:21:01 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:21:01 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:21:01 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:21:01 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:25:06 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:25:06 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:25:06 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:25:06 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:25:06 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:25:06 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:25:06 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:25:06 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:25:06 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:25:06 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:25:06 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:25:06 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:25:07 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:26:17 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:26:17 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:26:17 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:26:17 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:26:17 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:26:17 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:26:17 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:26:17 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:26:17 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:26:17 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:26:17 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:26:17 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:26:17 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:27:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:27:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:27:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:27:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:27:28 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:27:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:27:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:27:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:27:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:27:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:27:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:27:28 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:27:28 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:29:02 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command INIT.
+
+30.01.2025 22:29:02 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:29:02 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:29:02 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command GSS.
+
+30.01.2025 22:29:02 : Gauss was successfully created.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command GEN.
+
+30.01.2025 22:29:02 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command CRBMP.
+
+30.01.2025 22:29:02 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command GNU.
+
+30.01.2025 22:29:02 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command BIN.
+
+30.01.2025 22:29:02 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command WAVE.
+
+30.01.2025 22:29:02 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command KMEANS.
+
+30.01.2025 22:29:02 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+30.01.2025 22:29:02 : Class Control received control from Interface and received command KMCORES.
+
+30.01.2025 22:29:02 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:12:52 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 00:12:52 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:12:52 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:12:52 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:12:52 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 00:12:52 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 00:12:52 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 00:12:52 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command BIN.
+
+31.01.2025 00:12:52 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command WAVE.
+
+31.01.2025 00:12:52 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command KMEANS.
+
+31.01.2025 00:12:52 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:12:52 : Class Control received control from Interface and received command KMCORES.
+
+31.01.2025 00:12:52 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:25:15 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 00:25:15 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:25:15 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:25:15 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:25:15 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 00:25:15 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 00:25:15 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 00:25:15 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command BIN.
+
+31.01.2025 00:25:15 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command WAVE.
+
+31.01.2025 00:25:15 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command KMEANS.
+
+31.01.2025 00:25:15 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:25:15 : Class Control received control from Interface and received command KMCORES.
+
+31.01.2025 00:25:15 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:27:22 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 00:27:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:27:22 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:27:22 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:27:22 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 00:27:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 00:27:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 00:27:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command BIN.
+
+31.01.2025 00:27:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command WAVE.
+
+31.01.2025 00:27:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command KMEANS.
+
+31.01.2025 00:27:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:27:22 : Class Control received control from Interface and received command KMCORES.
+
+31.01.2025 00:27:22 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:39:23 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 00:39:23 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:39:23 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:39:23 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:39:23 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 00:39:23 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 00:39:23 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 00:39:23 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command BIN.
+
+31.01.2025 00:39:23 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command WAVE.
+
+31.01.2025 00:39:23 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command KMEANS.
+
+31.01.2025 00:39:23 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:39:23 : Class Control received control from Interface and received command KMCORES.
+
+31.01.2025 00:39:23 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:41:53 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 00:41:53 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:41:53 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:41:53 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:41:53 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 00:41:53 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 00:41:53 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 00:41:53 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command BIN.
+
+31.01.2025 00:41:53 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command WAVE.
+
+31.01.2025 00:41:53 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command KMEANS.
+
+31.01.2025 00:41:53 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:41:53 : Class Control received control from Interface and received command KMCORES.
+
+31.01.2025 00:41:53 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:44:26 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 00:44:26 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:44:26 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:44:26 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 00:44:26 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 00:44:26 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 00:44:26 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 00:44:26 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command BIN.
+
+31.01.2025 00:44:26 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command WAVE.
+
+31.01.2025 00:44:26 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command KMEANS.
+
+31.01.2025 00:44:26 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 00:44:26 : Class Control received control from Interface and received command KMCORES.
+
+31.01.2025 00:44:26 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:53:57 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:53:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:53:57 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:53:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:53:57 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 01:53:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:53:57 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:53:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:53:57 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:53:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:53:57 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 01:53:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:53:57 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 01:53:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:53:57 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 01:53:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:56:25 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:56:25 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:56:25 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 01:56:25 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:56:25 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:56:25 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:56:25 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:56:25 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:56:25 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:56:25 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:56:25 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:56:25 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:56:25 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:56:25 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:56:25 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 01:56:25 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:56:25 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 01:56:25 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:56:25 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 01:56:25 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:59:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 01:59:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:59:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:59:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 01:59:57 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 01:59:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 01:59:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 01:59:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command BIN.
+
+31.01.2025 01:59:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command WAVE.
+
+31.01.2025 01:59:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command KMEANS.
+
+31.01.2025 01:59:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 01:59:57 : Class Control received control from Interface and received command KMCORES.
+
+31.01.2025 01:59:57 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 02:10:08 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:08 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 02:10:08 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 02:10:08 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 02:10:08 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command BIN.
+
+31.01.2025 02:10:08 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command WAVE.
+
+31.01.2025 02:10:08 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command KMEANS.
+
+31.01.2025 02:10:08 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:08 : Class Control received control from Interface and received command KMCORES.
+
+31.01.2025 02:10:08 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 02:10:50 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:10:50 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 02:10:50 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 02:10:50 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 02:10:50 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command BIN.
+
+31.01.2025 02:10:50 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command WAVE.
+
+31.01.2025 02:10:50 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command KMEANS.
+
+31.01.2025 02:10:50 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:10:50 : Class Control received control from Interface and received command KMCORES.
+
+31.01.2025 02:10:50 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command INIT.
+
+31.01.2025 02:12:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GSS.
+
+31.01.2025 02:12:19 : Gauss was successfully created.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GEN.
+
+31.01.2025 02:12:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command CRBMP.
+
+31.01.2025 02:12:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command GNU.
+
+31.01.2025 02:12:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command BIN.
+
+31.01.2025 02:12:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command WAVE.
+
+31.01.2025 02:12:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command KMEANS.
+
+31.01.2025 02:12:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+
+31.01.2025 02:12:19 : Class Control received control from Interface and received command KMCORES.
+
+31.01.2025 02:12:19 : The command is completed, the report will be in the Interface.
+The control is given back to the Interface.
+

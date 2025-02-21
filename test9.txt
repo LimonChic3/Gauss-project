@@ -1,0 +1,8 @@
+GSS 10 20 40 7 8
+INIT 100 100
+GSS 50 10 70 8 12
+GSS 250 70 40 3 5
+GEN
+CRBMP bmp_created_test9.bmp
+GNU gnuplot_data_test9.txt Gnuplot_test9.txt
+BIN 170

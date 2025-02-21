@@ -1,0 +1,1934 @@
+14.12.2024 00:34:24 : The interface has given control to the Control (class) and sent the commandGSSto the Control. Waiting for an answer.
+
+14.12.2024 00:34:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:36:46 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:36:46 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:43:21 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:43:21 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:43:49 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:43:49 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:50:11 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:50:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:51:14 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:51:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:52:24 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:52:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:14 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 00:53:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:53:58 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 00:53:58 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:54:57 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 00:54:57 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:56:13 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 00:56:13 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 00:57:23 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 00:57:23 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:27:48 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 01:27:48 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : Gauss was successfully created.
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : Field successfully initialized!
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : Gauss was successfully created.
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : Gauss was successfully created.
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : Gauss was successfully created.
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : The field generation is complete.
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : BMP file was successfully created.
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : Gnuplot file was successfully created.
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : The slice matrix is successfully created and added to the list.
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : WAVE successfully completed.
+
+14.12.2024 01:44:24 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 01:44:24 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:44:24 : Kmeans successully completed.
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : Gauss was successfully created.
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : Field successfully initialized!
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : Gauss was successfully created.
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : Gauss was successfully created.
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : Gauss was successfully created.
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : The field generation is complete.
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : BMP file was successfully created.
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : WAVE successfully completed.
+
+14.12.2024 01:47:12 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 01:47:12 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 01:47:12 : REPORT : Kmeans successully completed.
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : Field successfully initialized!
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : The field generation is complete.
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : BMP file was successfully created.
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : WAVE successfully completed.
+
+14.12.2024 02:19:03 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 02:19:03 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:19:03 : REPORT : Kmeans successully completed.
+
+14.12.2024 02:41:18 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:41:18 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:41:18 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:41:18 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 02:41:18 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:41:18 : REPORT : Field successfully initialized!
+
+14.12.2024 02:41:18 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:41:18 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:41:18 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:41:18 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:41:18 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:41:18 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:41:18 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:41:18 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:41:18 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:41:18 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 02:41:18 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:41:18 : REPORT : The field generation is complete.
+
+14.12.2024 02:42:05 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:42:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:42:05 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:42:05 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 02:42:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:42:05 : REPORT : Field successfully initialized!
+
+14.12.2024 02:42:05 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:42:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:42:05 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:42:05 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:42:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:42:05 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:42:05 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:42:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:42:05 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:42:05 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 02:42:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:42:05 : REPORT : The field generation is complete.
+
+14.12.2024 02:44:54 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:44:54 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:44:54 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:44:54 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 02:44:54 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:44:54 : REPORT : Field successfully initialized!
+
+14.12.2024 02:44:54 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:44:54 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:44:54 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:44:54 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:44:54 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:44:54 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:44:54 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:44:54 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:44:54 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:44:54 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 02:44:54 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:44:54 : REPORT : The field generation is complete.
+
+14.12.2024 02:45:51 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:45:51 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:45:51 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:45:51 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 02:45:51 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:45:51 : REPORT : Field successfully initialized!
+
+14.12.2024 02:45:51 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:45:51 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:45:51 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:45:51 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:45:51 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:45:51 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:45:51 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:45:51 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:45:51 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:45:51 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 02:45:51 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:45:51 : REPORT : The field generation is complete.
+
+14.12.2024 02:46:35 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:46:35 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:46:35 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:46:35 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 02:46:35 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:46:35 : REPORT : Field successfully initialized!
+
+14.12.2024 02:46:35 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:46:35 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:46:35 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:46:35 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:46:35 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:46:35 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:46:35 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 02:46:35 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:46:35 : REPORT : Gauss was successfully created.
+
+14.12.2024 02:46:35 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 02:46:35 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 02:46:35 : REPORT : The field generation is complete.
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:27:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:27:56 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 07:27:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:27:56 : REPORT : Field successfully initialized!
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:27:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:27:56 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:27:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:27:56 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:27:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:27:56 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 07:27:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:27:56 : REPORT : The field generation is complete.
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 07:27:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:27:56 : REPORT : BMP file was successfully created.
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 07:27:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:27:56 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 07:27:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:27:56 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 07:27:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:27:56 : REPORT : WAVE successfully completed.
+
+14.12.2024 07:27:56 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:30:30 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:30:30 : REPORT : Field successfully initialized!
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:30:30 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:30:30 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:30:30 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:30:30 : REPORT : The field generation is complete.
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:30:30 : REPORT : BMP file was successfully created.
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:30:30 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:30:30 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 07:30:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:30:30 : REPORT : WAVE successfully completed.
+
+14.12.2024 07:30:30 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : Field successfully initialized!
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : The field generation is complete.
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : BMP file was successfully created.
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : WAVE successfully completed.
+
+14.12.2024 07:32:37 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 07:32:37 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:32:37 : REPORT : Kmeans successully completed.
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : Field successfully initialized!
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : The field generation is complete.
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : BMP file was successfully created.
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : WAVE successfully completed.
+
+14.12.2024 07:42:11 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 07:42:11 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:42:11 : REPORT : Kmeans successully completed.
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : Field successfully initialized!
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : Gauss was successfully created.
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : The field generation is complete.
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : BMP file was successfully created.
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : WAVE successfully completed.
+
+14.12.2024 07:45:56 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 07:45:56 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 07:45:56 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : Field successfully initialized!
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : The field generation is complete.
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:06:43 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:06:43 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:06:43 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:24:28 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:24:29 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : Field successfully initialized!
+
+14.12.2024 08:24:29 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:24:29 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:24:29 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:24:29 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : The field generation is complete.
+
+14.12.2024 08:24:29 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:24:29 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:24:29 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:24:29 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:24:29 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:24:29 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:24:29 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : Field successfully initialized!
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : The field generation is complete.
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:27:27 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:27:27 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:27:27 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : Field successfully initialized!
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : The field generation is complete.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:28:05 : The interface has given control to the Control (class) and sent the commandKMCOREto the Control. Waiting for an answer.
+
+14.12.2024 08:28:05 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:28:05 : REPORT : KMCORES successully completed.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : Field successfully initialized!
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : The field generation is complete.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:30:14 : The interface has given control to the Control (class) and sent the commandKMCOREto the Control. Waiting for an answer.
+
+14.12.2024 08:30:14 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:30:14 : REPORT : KMCORES successully completed.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : Field successfully initialized!
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : The field generation is complete.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:31:02 : The interface has given control to the Control (class) and sent the commandKMCOREto the Control. Waiting for an answer.
+
+14.12.2024 08:31:02 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:31:02 : REPORT : KMCORES successully completed.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : Field successfully initialized!
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : The field generation is complete.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:34:20 : The interface has given control to the Control (class) and sent the commandKMCOREto the Control. Waiting for an answer.
+
+14.12.2024 08:34:20 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:20 : REPORT : KMCORES successully completed.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : Field successfully initialized!
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : The field generation is complete.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:34:50 : The interface has given control to the Control (class) and sent the commandKMCOREto the Control. Waiting for an answer.
+
+14.12.2024 08:34:50 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:34:50 : REPORT : KMCORES successully completed.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : Field successfully initialized!
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : The field generation is complete.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:36:09 : The interface has given control to the Control (class) and sent the commandKMCOREto the Control. Waiting for an answer.
+
+14.12.2024 08:36:09 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:36:09 : REPORT : KMCORES successully completed.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : Field successfully initialized!
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : The field generation is complete.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:40:30 : The interface has given control to the Control (class) and sent the commandKMCOREto the Control. Waiting for an answer.
+
+14.12.2024 08:40:30 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:40:30 : REPORT : KMCORES successully completed.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : Field successfully initialized!
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : The field generation is complete.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:42:42 : The interface has given control to the Control (class) and sent the commandKMCOREto the Control. Waiting for an answer.
+
+14.12.2024 08:42:42 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:42:42 : REPORT : KMCORES successully completed.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : Field successfully initialized!
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : Gauss was successfully created.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : The field generation is complete.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : BMP file was successfully created.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : Gnuplot file was successfully created.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : The slice matrix is successfully created and added to the list.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : WAVE successfully completed.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : Kmeans successully completed.
+
+14.12.2024 08:59:41 : The interface has given control to the Control (class) and sent the commandKMCOREto the Control. Waiting for an answer.
+
+14.12.2024 08:59:41 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 08:59:41 : REPORT : KMCORES successully completed.
+
+14.12.2024 09:41:04 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 09:41:04 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 09:41:04 : REPORT : Gauss was successfully created.
+
+14.12.2024 09:41:04 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 09:41:04 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 09:41:04 : REPORT : Field successfully initialized!
+
+14.12.2024 09:50:40 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+14.12.2024 09:50:40 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 09:50:40 : REPORT : Gauss was successfully created.
+
+14.12.2024 09:50:40 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+14.12.2024 09:50:40 : The interface has returned the control and received a response from the Control.
+
+14.12.2024 09:50:40 : REPORT : Field successfully initialized!
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : Gauss was successfully created.
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command INIT to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : Field successfully initialized!
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : Gauss was successfully created.
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : Gauss was successfully created.
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command GSS to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : Gauss was successfully created.
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command GEN to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : The field generation is complete.
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command CRBMP to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : BMP file was successfully created.
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command GNU to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : Gnuplot file was successfully created.
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command BIN to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : The slice matrix is successfully created and added to the list.
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command WAVE to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : WAVE successfully completed.
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the command KMEANS to the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : Kmeans successully completed.
+
+30.01.2025 22:16:28 : The interface has given control to the Control (class) and sent the commandKMCOREto the Control. Waiting for an answer.
+
+30.01.2025 22:16:28 : The interface has returned the control and received a response from the Control.
+
+30.01.2025 22:16:28 : REPORT : KMCORES successully completed.
+
